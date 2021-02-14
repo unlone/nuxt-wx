@@ -3,7 +3,7 @@
     <div>
       <Logo />
       <h1 class="title">
-        wx003
+        wx003ooo
       </h1>
       <div class="links">
         <a href="https://nuxtjs.org/"
